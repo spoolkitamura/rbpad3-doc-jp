@@ -1,6 +1,6 @@
 # rbpad (version 3)
 
-## Ruby用スクリプトエディタ
+## Ruby用プログラムエディタ
 
 エディタのソースファイルは下記のサイトを参照  
 [https://github.com/spoolkitamura/rbpad3](https://github.com/spoolkitamura/rbpad3)
